@@ -1,6 +1,6 @@
 # 4 Variables Kmap minimizer
 This is c++ code to find the simplest boolean equation, giving the group we circle and draw the Kmap.
-This is uing the code from [https://github.com/AlaaAnani/3-Variable-K-Map-Minimizer](https://). Chnage 3 Variable to 4 Variable and adding the function that change the input boolean function to minimal decimal-digits and adding the function that writing and reading file. 
+This is using the code from [https://github.com/AlaaAnani/3-Variable-K-Map-Minimizer](https://). Chnage 3 Variable to 4 Variable and adding the function that change the input boolean function to minimal decimal-digits and adding the function that writing and reading file. 
 ## Input
 #### Given a input.txt.
 The content is boolean function that is not the simplest function 
