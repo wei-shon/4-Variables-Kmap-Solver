@@ -23,16 +23,16 @@ ad+a'bc+c'd+(a'b'cd)+(ab'cd')
       10 |  0 |  1 |  0 |  1 |
     --------------------------
 
-group 1: [6, 7]
+    group 1: [6, 7]
 
-simplification of group 1 ->a'bc
+    simplification of group 1 ->a'bc
 
-group 2: [10, 11]
+    group 2: [10, 11]
 
-simplification of group 2 ->ab'c
+    simplification of group 2 ->ab'c
 
-group 3: [9, 1, 11, 3, 5, 7, 13, 15]
+    group 3: [9, 1, 11, 3, 5, 7, 13, 15]
 
-simplification of group 3 ->d
+    simplification of group 3 ->d
 
-F(A, B, C, D) = a'bc + ab'c + d 
+    F(A, B, C, D) = a'bc + ab'c + d 
